@@ -13,8 +13,6 @@
     "axios": "^1.7.7",
     "dotenv": "^16.4.5",
     "vue": "^3.4.21",
-    "vue-google": "file:",
-    "vue-google-login": "file:",
     "vue3-google-login": "^2.0.33"
   },
   "devDependencies": {
